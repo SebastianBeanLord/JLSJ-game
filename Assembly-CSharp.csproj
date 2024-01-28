@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="Assets\scripts 1\PlayerLook.cs" />
     <Compile Include="Assets\scripts 1\Slide.cs" />
+    <Compile Include="Assets\scripts 1\WeaponSway.cs" />
     <Compile Include="Assets\scripts 1\weaponSwitching.cs" />
     <Compile Include="Assets\scripts 1\WallRun.cs" />
     <Compile Include="Assets\scripts 1\Stamina.cs" />
