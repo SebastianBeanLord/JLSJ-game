@@ -63,13 +63,21 @@
     <Compile Include="Assets\scripts 1\NavMeshSurface.cs" />
     <Compile Include="Assets\scripts 1\Slide.cs" />
     <Compile Include="Assets\scripts 1\WeaponSway.cs" />
+    <Compile Include="Assets\scripts 1\IDamageable.cs" />
+    <Compile Include="Assets\scripts 1\PlayerShoot.cs" />
     <Compile Include="Assets\scripts 1\weaponSwitching.cs" />
     <Compile Include="Assets\NewBehaviourScriptl.cs" />
+    <Compile Include="Assets\ArtskillZ Store\Free SciFi Textures\NewBehaviourScript.cs" />
+    <Compile Include="Assets\scripts 1\Scriptable Objects.cs" />
     <Compile Include="Assets\scripts 1\WallRun.cs" />
     <Compile Include="Assets\scripts 1\Stamina.cs" />
     <Compile Include="Assets\scripts 1\MoveCamera.cs" />
     <Compile Include="Assets\scripts 1\PlayerMovement.cs" />
+    <Compile Include="Assets\sprite muzzle flashes\AnimatedTexture.cs" />
     <Compile Include="Assets\scripts 1\enemyAi.cs" />
+    <Compile Include="Assets\GunS.cs" />
+    <Compile Include="Assets\scripts 1\Gun.cs" />
+    <Compile Include="Assets\scripts 1\Scriptable Objects\GunData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\pom.xml" />
