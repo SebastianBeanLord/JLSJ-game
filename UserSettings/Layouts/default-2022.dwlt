@@ -387,7 +387,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 95}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 065c0000
     m_LastClickedID: 23558
     m_ExpandedIDs: 00000000065c000000ca9a3bffffff7f

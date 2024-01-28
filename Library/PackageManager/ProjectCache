@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638420268854562697
-    m_Hash: 1829291373
+      ticks: 638420346537181086
+    m_Hash: 4237378701
   m_LockFileStatus:
     m_FilePath: C:/Users/cocja/OneDrive/Documents/GitHub/JLSJ-game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638420268854645146
-    m_Hash: 765003007
+      ticks: 638420346537221034
+    m_Hash: 447235296
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
